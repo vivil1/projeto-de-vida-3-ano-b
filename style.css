@@ -30,6 +30,23 @@
 .botao
 {
     background-color: var(--botao-inativo);
-    color: var(--branca);
+    color: var(--branco);
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+    border-bottom: 4px solid var(--cor-borda);
+    border-left: 2px solid var(--cor-borda);
+    border-right: 2px solid var(--cor-borda);
+    border-top: 4px solid var(--cor-borda);
+}
+.botoes{
+    display: block;
 
+}
+.botao:first-child
+{
+    border-radius: 40px 40px 0 0;
+    border-left: ;
 }
