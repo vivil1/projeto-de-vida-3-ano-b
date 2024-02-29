@@ -1,0 +1,24 @@
+:root
+{
+    --cor-de-fundo: #f5f5f5;
+    --preto: #000000;
+    --branca: #ffffff;
+    --botao-ativo: #a020f0;
+    --botao-inativo: #ff00ff;
+    --texto-fundo: #87cefa;
+    --cor-borda: #000000;
+}
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.titulo-principal {
+    text-align: center;
+    width: 100%;
+    font-size: ;
+}
