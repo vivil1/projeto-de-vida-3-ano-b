@@ -58,6 +58,35 @@
         display: flex;
     }
 .botao:first-child
-    
-}
+{
+    border-radius: 40px 0 0 0;
+    border-top: 4px solid var(--cor-borda);
 
+}
+}
+body
+{
+    background-color: var(--cor-de-fundo);
+}
+.botao.ativo
+{
+    background-color: var(--botao-ativo);
+    color: black;
+}
+.abas-textos
+{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+    border-bottom: 4px solid var(--cor-borda);
+    border-right: 4px solid var(--cor-borda);
+    border-left: 4px solid var(--cor-borda);
+}
+.aba-conteudo.ativo
+{
+    display: block;
+}
+.aba-conteudo
+{
+    display: none;
+}
