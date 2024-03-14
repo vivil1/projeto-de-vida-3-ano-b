@@ -1,11 +1,11 @@
 :root {
-    --cor-de-fundo: #f5f5f5;
-    --preto: #000000;
+    --cor-de-fundo: #e0d8d8;
+    --azul: #51a7e0;
     --branco: #FFFFFF;
-    --botao-ativo: #A020F0;
-    --botao-inativo: #FF00FF;
-    --texto-fundo: #87CEFA;
-    --cor-borda: #000000;
+    --botao-ativo: #c7008b;
+    --botao-inativo: #e6028e;
+    --texto-fundo: #ffffff;
+    --cor-borda: #e0d8d8;
 }
 
 .conteudo-principal {
