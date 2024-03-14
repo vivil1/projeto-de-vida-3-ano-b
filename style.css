@@ -40,7 +40,7 @@
     display: flex;
     justify-content: center;
     padding: 1em;
-    font-size: 25px;
+    font-size: 22px;
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--cor-borda);
