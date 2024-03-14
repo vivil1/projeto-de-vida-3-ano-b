@@ -22,7 +22,7 @@
     text-align: center;
     width: 100%;
     font-size: 32px;
-    color: var(--preto);
+    color: var(--azul);
 }
 
 .botao {
@@ -71,7 +71,7 @@ body {
 
 .botao.ativo {
     background-color: var(--botao-ativo);
-    color: #000000;
+    color: #e0d8d8;
 }
 
 .abas-textos {
