@@ -25,7 +25,7 @@
 .titulo-principal {
     text-align: center;
     width: 100%;
-    font-size: 60px;
+    font-size: 40px;
     color: var(--preto);
     font-family: "Indie Flower", cursive;
     font-weight: 700 ;
@@ -94,7 +94,7 @@ body {
     border-bottom: 4px solid var(--cor-borda);
     border-right: 4px solid var(--cor-borda);
     border-left: 4px solid var(--cor-borda);
-    color: pink;
+    color: rgb(0, 0, 0);
 }
 
 .aba-conteudo.ativo {
