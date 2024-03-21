@@ -26,7 +26,7 @@
     text-align: center;
     width: 100%;
     font-size: 60px;
-    color: greenyellow;
+    color: var(--preto);
     font-family: "Indie Flower", cursive;
     font-weight: 700 ;
     font-style: normal;
