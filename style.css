@@ -94,6 +94,7 @@ body {
     border-bottom: 4px solid var(--cor-borda);
     border-right: 4px solid var(--cor-borda);
     border-left: 4px solid var(--cor-borda);
+    color: pink;
 }
 
 .aba-conteudo.ativo {
